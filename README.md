@@ -8,4 +8,4 @@ Deployable on various cloud platforms, it ensures accessibility and scalability 
 
 With robust error handling in place, users can rely on uninterrupted operation, making our RAG-OCR-Chatbot an indispensable tool for efficient document processing and analysis.
 
-ChatBot : https://rag-ocr-chatbot.streamlit.app/
+ChatBot : https://rag-ocr-o-chatbot.streamlit.app/
